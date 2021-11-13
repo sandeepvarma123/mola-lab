@@ -1,0 +1,2 @@
+/api/* https://api.twitter.com/2/:splat 200
+/* /index.html 200
